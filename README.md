@@ -1,5 +1,7 @@
 # grunt-concat-with-template
 
+[![Build Status](https://travis-ci.org/cou929/grunt-concat-with-template.svg?branch=master)](https://travis-ci.org/cou929/grunt-concat-with-template)
+
 > Concatenate scripts or stylesheets with template.
 
 ## Getting Started
